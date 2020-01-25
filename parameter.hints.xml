@@ -1,0 +1,12 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="Java">
+        <added pattern="android.content.Intent.Intent(packageContext,cls)" />
+        <added pattern="java.io.File.File(pathname)" />
+      </blacklist>
+      <blacklist language="Groovy" />
+      <blacklist language="Kotlin" />
+    </blacklists>
+  </component>
+</application>
