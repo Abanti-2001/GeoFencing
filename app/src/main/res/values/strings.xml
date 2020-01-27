@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Municipality</string>
+    <string name="login_in">Login In</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="sign_up_page">Sign Up Page</string>
+    <string name="signup">SignUp</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="enter_passwordsignup">Enter Password</string>
+    <string name="enter_email_signup">Enter Email</string>
+    <string name="signup_">SignUp</string>
+    <string name="login">LogIn</string>
+    <string name="after_login">after login</string>
+    <string name="dont_have_an_acount">Dont have an Acount?</string>
+    <string name="re_enter_password">Re-enter Password</string>
+</resources>
